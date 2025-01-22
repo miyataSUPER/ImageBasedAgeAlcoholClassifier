@@ -1,0 +1,4 @@
+# 画像フォルダを無視
+train/
+Age_test/
+Alcohol_test/ 
